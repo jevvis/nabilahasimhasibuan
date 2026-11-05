@@ -160,7 +160,7 @@ export default function Hero() {
             <img
               src="/profile.png"
               alt="apt. Nabila Hasim Hasibuan, S.Farm."
-              className={`w-full h-auto max-h-[82vh] object-contain transition-all duration-500 ${
+              className={`w-full h-auto max-h-[62svh] md:max-h-[82vh] object-contain transition-all duration-500 ${
                 isHovered ? 'brightness-105 contrast-105' : 'brightness-100'
               }`}
               style={{
